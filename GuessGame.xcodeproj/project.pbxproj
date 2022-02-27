@@ -11,6 +11,8 @@
 		2DAB3F9427CBD10800CAD4E2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB3F9327CBD10800CAD4E2 /* ContentView.swift */; };
 		2DAB3F9627CBD10F00CAD4E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DAB3F9527CBD10F00CAD4E2 /* Assets.xcassets */; };
 		2DAB3F9927CBD10F00CAD4E2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DAB3F9827CBD10F00CAD4E2 /* Preview Assets.xcassets */; };
+		2DAB3FA027CBD53E00CAD4E2 /* GameSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB3F9F27CBD53E00CAD4E2 /* GameSlider.swift */; };
+		2DAB3FA227CBE6D300CAD4E2 /* GameSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAB3FA127CBE6D200CAD4E2 /* GameSliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		2DAB3F9327CBD10800CAD4E2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2DAB3F9527CBD10F00CAD4E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DAB3F9827CBD10F00CAD4E2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2DAB3F9F27CBD53E00CAD4E2 /* GameSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSlider.swift; sourceTree = "<group>"; };
+		2DAB3FA127CBE6D200CAD4E2 /* GameSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				2DAB3F9127CBD10800CAD4E2 /* GuessGameApp.swift */,
 				2DAB3F9327CBD10800CAD4E2 /* ContentView.swift */,
+				2DAB3FA127CBE6D200CAD4E2 /* GameSliderView.swift */,
+				2DAB3F9F27CBD53E00CAD4E2 /* GameSlider.swift */,
 				2DAB3F9527CBD10F00CAD4E2 /* Assets.xcassets */,
 				2DAB3F9727CBD10F00CAD4E2 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				2DAB3F9427CBD10800CAD4E2 /* ContentView.swift in Sources */,
 				2DAB3F9227CBD10800CAD4E2 /* GuessGameApp.swift in Sources */,
+				2DAB3FA027CBD53E00CAD4E2 /* GameSlider.swift in Sources */,
+				2DAB3FA227CBE6D300CAD4E2 /* GameSliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
